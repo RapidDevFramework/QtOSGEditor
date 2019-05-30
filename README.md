@@ -1,0 +1,2 @@
+# QtOSGEditor
+OSG Editor
